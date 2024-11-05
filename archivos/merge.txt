@@ -1,0 +1,6 @@
+-Nombre: Jesus Daniel Perez Petro
+
+-Edad: 14/03/2007,  17 años
+
+-Aspiraciones: Tener dominio de POO correcto y saber desarollar aplicaciones en base
+de este famoso paradigma conociendo bien sus conceptos como clases,herencia,polimorfismo,etc
