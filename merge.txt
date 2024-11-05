@@ -1,0 +1,13 @@
+-Nombre: Jesus Daniel Perez Petro
+
+-Edad: 14/03/2007,  17 años
+
+-Aspiraciones: Tener dominio de POO correcto y saber desarollar aplicaciones en base
+de este famoso paradigma conociendo bien sus conceptos como clases,herencia,polimorfismo,etc
+
+Respuesta
+    Al crear dos carpetas del mismo nombre y tipo en una misma raiz del archivo esto le genera
+    al sistema un conflicto al haber dos archivos identicos en un mismo lugar y por ejemplo
+    si quieres acceder al archivo desde otra ubicacion el sistema no sabra a cual de los dos
+    te estas refiriendo
+    
